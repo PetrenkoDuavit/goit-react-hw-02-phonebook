@@ -1,0 +1,21 @@
+.form {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 20px;
+}
+
+label {
+  margin-bottom: 10px;
+}
+
+label:last-child {
+  margin-bottom: 0px;
+}
+
+.inputName {
+  margin-left: 28px;
+}
+.inputNumber {
+  margin-left: 10px;
+}
